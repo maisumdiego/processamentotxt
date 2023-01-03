@@ -10,3 +10,5 @@ Primeiros testes que realizei com o Jupyter Notebooks, aprendendo a utilizar a b
 ### Bibliotecas
 [![Pandas](https://img.shields.io/badge/pandas-545454.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/numpy-545454.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0:096e20,100:3cba59&section=footer&height=70&animation=fadeIn&fontColor=ffffff&fontSize=30&descSize=15&fontAlignY=45&descAlignY=70"/>
